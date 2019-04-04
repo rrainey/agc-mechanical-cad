@@ -5,17 +5,15 @@ This repository contains downloadable Autodesk Fusion 360 and STEP CAD models of
 ## Introduction
 
 The [Virtual AGC Project](https://www.ibiblio.org/apollo/) was originally almost exclusively focused on software simulation 
-of the Apollo Guidance Computer (AGC). The AGC was the computer resident in both the Apollo Command Module and Lunar Excusion Module. 
-It literally navigated man to the Moon and back.
+of the Apollo Guidance Computer (AGC). The AGC was the computer installed in both the Apollo Command Module and Lunar Excusion Module. It literally navigated man to the Moon and back.
 
-Over time, the Virtual AGC Project moved in many related directions. Simulation projects for other space related guidance systems
-are being worked on; hybrid hardware and software models of the AGC have been created. The circuitry of the AGC has been reproduced
-using modern IC compoments.
+Over time, the Virtual AGC Project branched in many directions. Simulation projects for other space related guidance systems
+were researched; hybrid hardware and software models of the AGC were created. The circuitry of the AGC has been reproduced using modern IC compoments. 
 
 Recently Ron Burkey, the Virtual AGC project's creator, located, scanned, and published
 the [original MIT/NASA electrical and mechanical drawings of the AGC](https://www.ibiblio.org/apollo/ElectroMechanical.html).
 
-The models in this repository represent my work using Fusion 360 to generate models from those original drawings using modern CAD/CAM tooling.
+The content in this repository represents my work using Fusion 360 to generate models from those original drawings using modern CAD/CAM tooling.
 
 ## How These Models Were Created
 
@@ -24,6 +22,19 @@ While Fusion 360 is not open source software, Autodesk offers a no-cost
 license to students, makers, and startups. You can obtain your own copy of Fusion 360 and begin editing the .f3d files contained in this project. 
 STEP-format CAD models for each component have been exported and included in this project as well. 
 Those model files are directly usable by many other CAD modeling and 3D-printing systems.
+
+## Is This a Complete AGC Model?
+
+No. I am releasing what I have transcribed so far. That amounts to roughly a half-dozen models. Each is currently 90-100% completely encoded from the original engineering documents.
+
+I'm working to maintain engineering precision wherever I can. Errors undoubtedly exist, and I'm my own Quality
+Assurance department currently. In other words, use at your own risk.
+
+## My Background
+
+My name is Riley Rainey. I'm a software engineer by training. I spent a number of years building aerospace simulations as my day job.
+I'm not a Professional Engineer by any stretch, but my work in simulation put me in close contact with CAD designers and CAD systems. I'd used AutoCad many years ago, but my exposure to Fusion 360 began with this project. 
+ 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
