@@ -2,6 +2,8 @@
 
 This repository contains downloadable Autodesk Fusion 360 and STEP CAD models of many Apollo Guidance Computer components.
 
+![Fusion 360](images/f360-shot-01.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 ## Introduction
 
 The [Virtual AGC Project](https://www.ibiblio.org/apollo/) was originally almost exclusively focused on software simulation 
