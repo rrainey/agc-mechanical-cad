@@ -5,11 +5,17 @@ This repository contains downloadable Autodesk Fusion 360 and STEP CAD models of
 ## Introduction
 
 The [Virtual AGC Project](https://www.ibiblio.org/apollo/) was originally almost exclusively focused on software simulation 
-of the Apollo Guidance Computer (AGC), the computer resident in both the Apollo Command Module and Lunar Excusion Module. Over time,
-the Virtual AGC Project moved in many related directions. Recently Rob Burkey, the project's creator, located, scanned, and published
+of the Apollo Guidance Computer (AGC). The AGC was the computer resident in both the Apollo Command Module and Lunar Excusion Module. 
+It literally navigated man to the Moon and back.
+
+Over time, the Virtual AGC Project moved in many related directions. Simulation projects for other space related guidance systems
+are being worked on; hybrid hardware and software models of the AGC have been created. The circuitry of the AGC has been reproduced
+using modern IC compoments.
+
+Recently Ron Burkey, the Virtual AGC project's creator, located, scanned, and published
 the [original MIT/NASA electrical and mechanical drawings of the AGC](https://www.ibiblio.org/apollo/ElectroMechanical.html).
 
-The models in this repository represent my work using Fusion 360 to generate models of these original parts using a modern CAD/CAM system.
+The models in this repository represent my work using Fusion 360 to generate models from those original drawings using modern CAD/CAM tooling.
 
 ## How These Models Were Created
 
