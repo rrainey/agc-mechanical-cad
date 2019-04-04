@@ -32,8 +32,13 @@ Assurance department currently. In other words, use at your own risk.
 
 ## My Background
 
-My name is Riley Rainey. I'm a software engineer by training. I spent a number of years building aerospace simulations as my day job.
-I'm not a Professional Engineer by any stretch, but my work in simulation put me in close contact with CAD designers and CAD systems. I'd used AutoCad many years ago, but my exposure to Fusion 360 began with this project. 
+My name is Riley Rainey. I'm a software engineer by profession. I spent a number of years building aerospace simulations as my day job.
+I'm not a Professional Engineer by any stretch, but my work in simulation put me in close contact with CAD designers and CAD systems. I'd used AutoCad many years ago, but my exposure to Fusion 360 began with this project.
+
+## Getting Support for these Models
+
+There's no official support available, but if you notice a problem or have a request for a apecific drawing to be
+transcribed, [create an issue](https://github.com/rrainey/virtual-agc-mechanical-cad/issues) in this GitHub project.
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
