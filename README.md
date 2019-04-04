@@ -8,12 +8,12 @@ The [Virtual AGC Project](https://www.ibiblio.org/apollo/) was originally almost
 of the Apollo Guidance Computer (AGC). The AGC was the computer installed in both the Apollo Command Module and Lunar Excusion Module. It literally navigated man to the Moon and back.
 
 Over time, the Virtual AGC Project branched in many directions. Simulation projects for other space related guidance systems
-were researched; hybrid hardware and software models of the AGC were created. The circuitry of the AGC has been reproduced using modern IC compoments. 
+were researched; hybrid hardware and software models of the AGC were created. The circuitry of the AGC has been reproduced using modern IC components. 
 
-Recently Ron Burkey, the Virtual AGC project's creator, located, scanned, and published
-the [original MIT/NASA electrical and mechanical drawings of the AGC](https://www.ibiblio.org/apollo/ElectroMechanical.html).
+Recently Ron Burkey, the Virtual AGC project's creator, scanned, cataloged, and published
+the [original MIT electrical and mechanical drawings of the AGC](https://www.ibiblio.org/apollo/ElectroMechanical.html).
 
-The content in this repository represents my work using Fusion 360 to generate models from those original drawings using modern CAD/CAM tooling.
+The content in this repository represents my work using Fusion 360 to generate CAD models from those original drawings using modern CAD/CAM tooling.
 
 ## How These Models Were Created
 
@@ -34,7 +34,7 @@ Assurance department currently. In other words, use at your own risk.
 
 My name is Riley Rainey. I'm a software engineer by training. I spent a number of years building aerospace simulations as my day job.
 I'm not a Professional Engineer by any stretch, but my work in simulation put me in close contact with CAD designers and CAD systems. I'd used AutoCad many years ago, but my exposure to Fusion 360 began with this project. 
- 
+
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
