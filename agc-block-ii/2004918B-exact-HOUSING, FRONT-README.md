@@ -31,4 +31,4 @@ None.
 MS21209 -- Mil Standard Threaded Inserts
 
 ## Credits
-This model was created by Riley Rainey (<riley@websimulations.com>)
+This model was created from the original MIT drawings by Riley Rainey (<riley@websimulations.com>)
