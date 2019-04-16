@@ -8,9 +8,12 @@ This is a model of the Status/Caution Indicator panel of the AGC DSKY.
 
 ## Source Drawing(s)
 
-[1005025 sheets 1 of 3](https://archive.org/stream/AgcApertureCardsBatch3Images#mode/1up)
+[1005025 sheet 1 of 3](https://archive.org/stream/AgcApertureCardsBatch3Images#mode/1up)
+
 [1005025 sheet 2 of 3](https://archive.org/stream/AgcApertureCardsBatch3Images#page/n1/mode/1up)
+
 [1005025 sheet 3 of 3](https://archive.org/stream/AgcApertureCardsBatch3Images#page/n2/mode/1up)
+
 [2003956](https://archive.org/stream/AgcApertureCardsBatchKeithley#page/n71/mode/1up) AGC DSKY OUTLINE
 
 ### Source Drawing Issues
