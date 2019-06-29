@@ -6,14 +6,16 @@ This repository contains downloadable Autodesk Fusion 360 and STEP CAD models of
 
 ## Introduction
 
+The Apollo Guidance Computer (AGC) was installed in both the Apollo Command Module and Lunar Excursion Module. It's one of the
+critical inventions that made the moon landing possible.
 The [Virtual AGC Project](https://www.ibiblio.org/apollo/) was originally focused on software simulation 
-of the Apollo Guidance Computer (AGC). The AGC was the computer installed in both the Apollo Command Module and Lunar Excursion Module.
+of the AGC. 
 
 Over time, the Virtual AGC Project branched in many directions. Simulation projects for other space related guidance systems
-were researched; hybrid hardware and software models of the AGC were created. The circuitry of the AGC has been reproduced using modern IC components. 
+were researched; hybrid hardware and software models of the AGC have been created. The circuitry of the AGC has been reproduced using modern IC components. 
 
-Recently Ron Burkey, the Virtual AGC project's creator, scanned, cataloged, and published
-the [original MIT electrical and mechanical drawings of the AGC](https://www.ibiblio.org/apollo/ElectroMechanical.html).
+More recently, Ron Burkey, the Virtual AGC project's leader, scanned, cataloged, and published
+the [original MIT electrical and mechanical drawings of the AGC](https://www.ibiblio.org/apollo/ElectroMechanical.html). This detailed catalog has made it possible to construct CAD models of the AGC's mechanical components.
 
 The content in this repository represents my work using Fusion 360 to generate CAD models from those original drawings using modern CAD/CAM tooling.
 
@@ -29,7 +31,7 @@ Panel markings use an engraving font face called "Gorton". Eugene Dorr created O
 
 ## Is This a Complete AGC Model?
 
-No. I am releasing what I have transcribed so far. That amounts to roughly a half-dozen models. Each is currently 90-100% completely encoded from the original engineering documents.
+No. I am releasing what I have transcribed so far. That amounts to roughly twenty models. Each is currently 90-100% completely encoded from the original engineering documents.
 
 I'm working to maintain engineering precision wherever I can. Errors undoubtedly exist, and I'm my own Quality
 Assurance department currently. In other words, use at your own risk.
