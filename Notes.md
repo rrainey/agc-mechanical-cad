@@ -4,6 +4,15 @@ For now, I am focusing on modeling the versions used in the Apollo 17 CSM DSKY (
 
 I'm collecting notes and questions regarding each drawing set that I used to create this model.
 
+### 1006387D - INDICATOR, ALARM
+
+The inner constructon of this assembly is not fully documented in the AGC drawings. I'm generating an "exact" version based on the drawing, and a "reconstructed" version that would be based on building a simulated version from
+modern parts.
+
+Portions of the connector at the back of the part remain to be modeled.
+
+On the back, there's a channel marked "0.615 MIN" (B3) - a more reasonable value of 0.515 MIN has been used in the model.
+
 ### 2004699A - COVER
 
 There are apparently two variants of this part, but the drawing does not call out these variants. The drawing depicts a part with a "short window" -- intended for the Status and Warning light assembly, however a 2004699-001 version is also called out for the E/L & Cover Assembly (2003988B). 
