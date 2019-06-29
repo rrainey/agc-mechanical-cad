@@ -2,7 +2,7 @@
 
 This repository contains downloadable Autodesk Fusion 360 and STEP CAD models of many Apollo Guidance Computer components.
 
-![Fusion Models](images/f360-shot-02.png)
+![Assembled Model](images/ASSEMBLED 2.png)
 
 ## Introduction
 
@@ -25,12 +25,16 @@ license to students, makers, and startups. You can obtain your own copy of Fusio
 STEP-format CAD models for each component have been exported and included in this project as well. 
 Those model files are directly usable by many other CAD modeling and 3D-printing systems.
 
+Panel markings used the "Gorton" font. Eugene Dorr created OTF and TTF versions of these fonts. His font files can be downloaded from https://github.com/ehdorrii/dsky-fonts 
+
 ## Is This a Complete AGC Model?
 
 No. I am releasing what I have transcribed so far. That amounts to roughly a half-dozen models. Each is currently 90-100% completely encoded from the original engineering documents.
 
 I'm working to maintain engineering precision wherever I can. Errors undoubtedly exist, and I'm my own Quality
 Assurance department currently. In other words, use at your own risk.
+
+![Assembled Model](images/ASSEMBLED 1.png)
 
 ## My Background
 
