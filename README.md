@@ -2,12 +2,12 @@
 
 This repository contains downloadable Autodesk Fusion 360 and STEP CAD models of many Apollo Guidance Computer components.
 
-![Assembled Model](images/ASSEMBLED 2.png)
+![Assembled Model](images/ASSEMBLED%202.png)
 
 ## Introduction
 
-The [Virtual AGC Project](https://www.ibiblio.org/apollo/) was originally almost exclusively focused on software simulation 
-of the Apollo Guidance Computer (AGC). The AGC was the computer installed in both the Apollo Command Module and Lunar Excusion Module.
+The [Virtual AGC Project](https://www.ibiblio.org/apollo/) was originally focused on software simulation 
+of the Apollo Guidance Computer (AGC). The AGC was the computer installed in both the Apollo Command Module and Lunar Excursion Module.
 
 Over time, the Virtual AGC Project branched in many directions. Simulation projects for other space related guidance systems
 were researched; hybrid hardware and software models of the AGC were created. The circuitry of the AGC has been reproduced using modern IC components. 
@@ -25,7 +25,7 @@ license to students, makers, and startups. You can obtain your own copy of Fusio
 STEP-format CAD models for each component have been exported and included in this project as well. 
 Those model files are directly usable by many other CAD modeling and 3D-printing systems.
 
-Panel markings used the "Gorton" font. Eugene Dorr created OTF and TTF versions of these fonts. His font files can be downloaded from https://github.com/ehdorrii/dsky-fonts 
+Panel markings use an engraving font face called "Gorton". Eugene Dorr created OTF and TTF versions of these fonts. These files can be downloaded from https://github.com/ehdorrii/dsky-fonts 
 
 ## Is This a Complete AGC Model?
 
@@ -34,7 +34,7 @@ No. I am releasing what I have transcribed so far. That amounts to roughly a hal
 I'm working to maintain engineering precision wherever I can. Errors undoubtedly exist, and I'm my own Quality
 Assurance department currently. In other words, use at your own risk.
 
-![Assembled Model](images/ASSEMBLED 1.png)
+![Assembled Model](images/ASSEMBLED%201.png)
 
 ## My Background
 
