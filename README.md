@@ -6,8 +6,9 @@ This repository contains downloadable Autodesk Fusion 360 and STEP CAD models of
 
 ## Introduction
 
-The Apollo Guidance Computer (AGC) was installed in both the Apollo Command Module and Lunar Excursion Module. It's one of the
-critical inventions that made the moon landing possible.
+The Apollo Guidance Compuer (AGC) is one of the critical inventions that made the U.S. moon landing possible. AGC's were installed in both the Apollo Command Module and Lunar Excursion Module. MIT and NASA archives, as well as important contributions from some
+of the original team members have given us a rich set of detail about how this computer was constructed.
+
 The [Virtual AGC Project](https://www.ibiblio.org/apollo/) was originally focused on software simulation 
 of the AGC. 
 
