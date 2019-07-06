@@ -34,3 +34,7 @@ details on the internals. The Gorton fonts used in this model originates from Eu
 
 Both variants are modeled. The modeling of the threading at the tip of the screw isn't quite accurate.
 
+### 2004974D IDM PLATE
+
+This is easily the most complex component to model. The holes for wire wrapping are unmodeled. There's several holes for mounting circuit assemblies that remain to be cut.
+
