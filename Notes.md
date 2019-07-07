@@ -36,5 +36,5 @@ Both variants are modeled. The modeling of the threading at the tip of the screw
 
 ### 2004974D IDM PLATE
 
-This is easily the most complex component to model. The holes for wire wrapping are unmodeled. There's several holes for mounting circuit assemblies that remain to be cut.
+This is easily the most complex component to model. There's several holes for mounting interior circuit assemblies that remain to be cut.
 
