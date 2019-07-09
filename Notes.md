@@ -32,9 +32,9 @@ details on the internals. The Gorton fonts used in this model originates from Eu
 
 ### 2004932 JACKING SCREW
 
-Both variants are modeled. The modeling of the threading at the tip of the screw isn't quite accurate.
+[COMPLETE] Both variants are modeled. The modeling of the threading at the tip of the screw isn't quite accurate.
 
 ### 2004974D IDM PLATE
 
-This is easily the most complex component to model. There's several holes for mounting interior circuit assemblies that remain to be cut.
+[COMPLETE] This is easily the most complex component to model.
 
