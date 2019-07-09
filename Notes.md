@@ -4,6 +4,12 @@ For now, I am focusing on modeling the versions used in the Apollo 17 CSM DSKY (
 
 I'm collecting notes and questions regarding each drawing set that I used to create this model.
 
+### GENERAL NOTES
+
+Dowel pins are generally not included in these models.
+
+Holes for screw thread inserts are modeled as the actual screw hole.
+
 ### 1001489-59 SCREW
 
 Eight of these screws secure the Front Cover on the DSKY ASSEMBLY (in 2003994J).  The latest specification drawing for these screws we currently have is 1001489 "C" - the highest screw suffix on that drawing 
@@ -29,6 +35,10 @@ the -000 variant has the "short window" and -001 is the "tall window". It's not 
 
 This is the E/L display indicator for the DSKY. The drawing indicated 2004647 is just a relabeled Block I part, 1006315-001. 1006315G includes dimensions of the E/L display elements and the outline of the assembly, but lacks
 details on the internals. The Gorton fonts used in this model originates from Eugene
+
+### 2004923 PLATE, CONNECTOR
+
+[COMPLETE, except for dowel pins] Screw thread inserts are modeled as a hole for the intended screw. Dowel pins are not modeled. The drawing is slightly out of scale at the middle of the bottom face.
 
 ### 2004932 JACKING SCREW
 
