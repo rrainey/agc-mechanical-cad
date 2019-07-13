@@ -38,7 +38,11 @@ details on the internals. The Gorton fonts used in this model originates from Eu
 
 ### 2004923 PLATE, CONNECTOR
 
-[COMPLETE, except for dowel pins] Screw thread inserts are modeled as a hole for the intended screw. Dowel pins are not modeled. The drawing is slightly out of scale at the middle of the bottom face.
+[COMPLETE] Screw thread inserts are modeled as a hole for the intended screw. Dowel pins are not modeled. The drawing is slightly out of scale at the middle of the bottom face.
+
+### 2004925 HEADER KEYBOARD MODULE
+
+[COMPLETE] The arrays of holes for the pin insulators aren't explictly marked as laterally centered on the header, but that seems like a reasonable assumption. I have modeled it that way.
 
 ### 2004932 JACKING SCREW
 
