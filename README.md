@@ -2,7 +2,7 @@
 
 This repository contains downloadable Autodesk Fusion 360 and STEP CAD models of many Apollo Guidance Computer components.
 
-![Assembled Model](images/ASSEMBLED%202.png)
+![Assembled Model](images/ASSEMBLED-3.png)
 
 ## Introduction
 
