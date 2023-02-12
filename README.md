@@ -20,6 +20,15 @@ the [original MIT electrical and mechanical drawings of the AGC](https://www.ibi
 
 The content in this repository represents my work using Fusion 360 to generate CAD models from those original drawings using modern CAD/CAM tooling.
 
+### Archived Drawings Collections are Incomplete
+
+It is worth saying that the archives that I have found so far on this project are incomplete.
+The AGC evolved substantially over its lifetime  -- descriptions of many changes
+are captured in Engineering Change Proposals (ECPs) which may or may not be completely
+reflected in the archived drawings. Also, there are gaps in the drawing collections.  
+This requires reconstruction
+of some parts in order to develop a more complete model.
+
 ## How These Models Were Created
 
 [Autodesk's Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) was used exclusively to create these models. 
@@ -38,6 +47,42 @@ I'm working to maintain engineering precision wherever I can. Errors undoubtedly
 Assurance department currently. In other words, use at your own risk.
 
 ![Assembled Model](images/ASSEMBLED%201.png)
+
+## The DSKY: Pushbutton Springs and "Fire Fixes"
+
+[This Raytheon contractor report](https://ntrs.nasa.gov/citations/19700015154) describes important
+upgrades to the DSKY that are not completely captured in the archived drawing collections:
+
+>h. DSKY pushbutton switch spring - Due to failures of the DSKY
+pushbutton switch spring (shown in Figure 3-6) a failure analysis and
+design review of the spring was performed. The failure inalysis and
+design review indicated that in normal use the spring could crack at
+points of stress concentration. As a result, a new spring was designed.
+As shown in the drawing, the new spring replaces the present
+spring in form, fit, and function with tighter geometric constraints.
+
+![Pushbutton changes](images/NASA-CR-108361-Fig-3-6.png)
+
+>The wraparound design of the new spring lengthens the spring arm
+to reduce stress and allows the new spring to be incorporated in the existing
+pushbutton switch design. The thickness of the spring has changed from
+0.010 to 0.018 inch to retain the same spring rate. The material of the
+new spring is the same as that for the present spring but is specially
+hardened to a minimum of 270,000 lbf/in^2 U.T.S. to increase the fatigue
+strength of the spring.
+>
+>i. DSKY fire fix - As a result of the
+ flammability study performed as authorized by CCA 497-0428, the DSKY alarm indicator(P/N 1006387-003) and DSKY pushbutton caps (P/N 1006353) requiredmaterial changes as follows (see Figure 3-7)
+>
+>>1. alarm indicator - affix nonflammable nonreflective glass
+cover with an aluminum frame as an integral part of the indicator panel
+>>2. DSKY pushbutton caps - rep:ace the acrylic cap with one of aluminum having etched and acrylic filled characters.
+
+![Pushbutton changes](images/NASA-CR-108361-Fig-3-7.png)
+
+>j. Teflon - (not included here, as it dosen't directly apply to the Fusion CAD models, but Teflon coatings were added to reduce the tendency for pushbuttons operate less smoothly due to wear.)
+
+These changes are listed here but not yet integrated into this CAD project.
 
 ## My Background
 
