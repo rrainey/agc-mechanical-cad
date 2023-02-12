@@ -56,7 +56,7 @@ has a mostly complete set of drawings.
 
 ![An AGC Pushbutton - 2003875](images/2003875-exploded.png)
 
-The gap starts with the cap housing assembly in that assembly.  The cap housing sits behind the
+The gap starts with the cap housing assembly.  The cap housing sits behind the
 actual key cap. It holds the cap in place and serves to guide the depressed key into contact
 with the actual switch. The drawing for that cap housing assembly is - so far - missing. Also missing is a
 drawing for the leaf spring that's mounted at the back of that assembly.  There's a rivet
