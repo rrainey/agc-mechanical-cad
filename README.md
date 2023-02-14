@@ -20,15 +20,6 @@ the [original MIT electrical and mechanical drawings of the AGC](https://www.ibi
 
 The content in this repository represents my work using Fusion 360 to generate CAD models from those original drawings using modern CAD/CAM tooling.
 
-### Archived Drawings Collections are Incomplete
-
-It is worth saying that the archives that I have found so far on this project are incomplete.
-The AGC evolved substantially over its lifetime  -- descriptions of many changes
-are captured in Engineering Change Proposals (ECPs) which may or may not be completely
-reflected in the archived drawings. Also, there are gaps in the drawing collections.  
-This requires reconstruction
-of some parts in order to develop a more complete model.
-
 ## How These Models Were Created
 
 [Autodesk's Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) was used exclusively to create these models. 
@@ -39,7 +30,15 @@ Those model files are directly usable by many other CAD modeling and 3D-printing
 
 Panel markings use an engraving font face called "Gorton". Eugene Dorr created OTF and TTF versions of these fonts. These files can be downloaded from https://github.com/ehdorrii/dsky-fonts 
 
-## Is This a Complete AGC Model?
+### Archived Drawings Collections are Incomplete
+
+It is worth saying that the source archives for this project are incomplete.
+The AGC evolved substantially over its lifetime  -- descriptions of many changes
+are captured in Engineering Change Proposals (ECPs) which may or may not be completely
+reflected in the archived drawings. Also, there are gaps in the drawing collections.  
+This requires reconstruction of some parts in order to develop a more complete model.
+
+## Is This a Complete AGC Model of what is Available?
 
 No. I am releasing what I have transcribed so far. That amounts to roughly twenty models. Each is currently 90-100% completely encoded from the original engineering documents.
 
@@ -49,6 +48,24 @@ Assurance department currently. In other words, use at your own risk.
 ![Assembled Model](images/ASSEMBLED%201.png)
 
 ## The DSKY: Pushbutton Springs and "Fire Fixes"
+
+An example illustrating what we do have to work from is the DSKY pushbutton
+switch. There are three distinct part numbers representing different variants of
+the pushbutton switch: 2003875, 2003894, and 2003984.  Of those three only 2003875
+has a mostly complete set of drawings.
+
+![An AGC Pushbutton - 2003875](images/2003875-exploded.png)
+
+The gap starts with the cap housing assembly.  The cap housing sits behind the
+actual key cap. It holds the cap in place and serves to guide the depressed key into contact
+with the actual switch. The drawing for that cap housing assembly is - so far - missing. Also missing is a
+drawing for the leaf spring that's mounted at the back of that assembly.  There's a rivet
+attaching the spring to the housing, too.  The exploded drawing you see above represents a best guess of the dimensions of the missing parts.
+
+On my to-do list for this project is to build a 
+compendium of what parts we have, where
+we had complete drawings to work from, and
+where the gaps and guesses are.
 
 [This Raytheon contractor report](https://ntrs.nasa.gov/citations/19700015154) describes important
 upgrades to the DSKY that are not completely captured in the archived drawing collections:
