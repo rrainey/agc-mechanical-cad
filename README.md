@@ -49,7 +49,7 @@ Assurance department currently. In other words, use at your own risk.
 
 ## The DSKY: Pushbutton Springs and "Fire Fixes"
 
-An example illustrating what we do have to work from is the DSKY pushbutton
+An example illustrating the resources and gaps we work from is the DSKY pushbutton
 switch. There are three distinct part numbers representing different variants of
 the pushbutton switch: 2003875, 2003894, and 2003984.  Of those three only 2003875
 has a mostly complete set of drawings.
